@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CanchaObservable
+comment1.params=id
+comment1.target=CanchaObservable(int)
+comment2.params=observador
+comment2.target=void\ addObserver(Observador)
+comment3.params=
+comment3.target=void\ reservar()
+comment4.params=
+comment4.target=void\ liberar()
+comment5.params=
+comment5.target=void\ notificarObservadores()
+numComments=6

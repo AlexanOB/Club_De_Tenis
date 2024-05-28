@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GerReservas
+comment1.params=canchas
+comment1.target=GerReservas(java.util.List)
+comment2.params=idCancha
+comment2.target=void\ reservarCancha(int)
+comment3.params=idCancha
+comment3.target=void\ liberarCancha(int)
+numComments=4

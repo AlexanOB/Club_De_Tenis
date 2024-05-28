@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReservaDecorator
+comment1.params=reserva
+comment1.target=ReservaDecorator(Reserva)
+comment2.params=
+comment2.target=void\ mostrarDetalles()
+numComments=3

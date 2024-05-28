@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ClubDeTenis
+comment1.params=numCanchas
+comment1.target=ClubDeTenis(int)
+comment2.params=observador\ idCancha
+comment2.target=void\ agregarCancha(Observador,\ int)
+comment3.params=
+comment3.target=void\ mostrarCanchasDisponibles()
+comment4.params=idCancha
+comment4.target=void\ reservarCancha(int)
+comment5.params=idCancha
+comment5.target=void\ liberarCancha(int)
+numComments=6

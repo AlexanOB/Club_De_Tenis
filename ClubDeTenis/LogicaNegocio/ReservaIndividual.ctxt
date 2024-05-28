@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReservaIndividual
+comment1.params=idCancha
+comment1.target=ReservaIndividual(int)
+comment2.params=
+comment2.target=void\ mostrarDetalles()
+numComments=3
